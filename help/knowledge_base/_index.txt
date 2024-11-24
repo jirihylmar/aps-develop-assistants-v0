@@ -1,0 +1,18 @@
+=== Knowledge Base File Index ===
+
+Size (KB) | Original Path -> Knowledge Base Filename
+------------------------------------------------
+src_utils_modelUtils.jsx_0005 KB | src/utils/modelUtils.jsx/0005KB -> src_utils_modelUtils.jsx_0005KB.txt
+src_styles_index.css_0001 KB | src/styles/index.css/0001KB -> src_styles_index.css_0001KB.txt
+src_components_layout_PageLayout.jsx_0001 KB | src/components/layout/PageLayout.jsx/0001KB -> src_components_layout_PageLayout.jsx_0001KB.txt
+src_components_form_ResponseHandler.jsx_0005 KB | src/components/form/ResponseHandler.jsx/0005KB -> src_components_form_ResponseHandler.jsx_0005KB.txt
+src_components_form_QueryForm.jsx_0002 KB | src/components/form/QueryForm.jsx/0002KB -> src_components_form_QueryForm.jsx_0002KB.txt
+src_components_form_ErrorDisplay.jsx_0001 KB | src/components/form/ErrorDisplay.jsx/0001KB -> src_components_form_ErrorDisplay.jsx_0001KB.txt
+src_components_debug_DebugPanel.jsx_0003 KB | src/components/debug/DebugPanel.jsx/0003KB -> src_components_debug_DebugPanel.jsx_0003KB.txt
+src_components_QueryWorker.jsx_0010 KB | src/components/QueryWorker.jsx/0010KB -> src_components_QueryWorker.jsx_0010KB.txt
+src_App.jsx_0001 KB | src/App.jsx/0001KB -> src_App.jsx_0001KB.txt
+server.mjs_0007 KB | server.mjs/0007KB -> server.mjs_0007KB.txt
+readme.md_0010 KB | readme.md/0010KB -> readme.md_0010KB.txt
+public_instructions.md_0006 KB | public/instructions.md/0006KB -> public_instructions.md_0006KB.txt
+public_index.html_0001 KB | public/index.html/0001KB -> public_index.html_0001KB.txt
+.env_0001 KB | .env/0001KB -> .env_0001KB.txt

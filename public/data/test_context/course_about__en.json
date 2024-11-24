@@ -1,0 +1,90 @@
+[
+	{
+		"language": "en",
+		"name_normed": "digital_horizon_phenomenology_of_modern_technologies",
+		"name": "Digital Horizon - Phenomenology of Modern Technologies",
+		"description": "`Digital Horizon - Phenomenology of Modern Technologies` takes employees across all levels on a journey through the digital landscape of modern workplaces. This innovative program begins with a preparatory phase, gathering real-world challenges from various departments. Participants then dive into a blend of theory and practice, exploring digital phenomena and their impact on daily work. As they navigate the course, employees enhance their digital literacy, learning to discern credible information from manipulation in the online world. Participants not only master key technologies like GitHub, Docker, and selected AWS Cloud Services, but also acquire the precise language of the digital realm. This dual proficiency unveils the inner workings of both tools and concepts, as terminology serves as a key to unlock deeper understanding. By the journey's end, they create their own personalized minimal examples of implemented solution, equipped with new knowledge and practical skills to immediately enhance their work processes. `Digital Horizon doesn't just teach about the digital world – it empowers employees to shape it`.",
+		"values": null
+	},
+	{
+		"language": "en",
+		"name_normed": "course_setup_process",
+		"name": "Course Setup Process",
+		"description": null,
+		"values": [
+			"`Module Selection`: Company chooses modules based on their digital transformation needs",
+			"`Context Integration`: Company provides specific business cases and challenges",
+			"`Customization`: Selected modules are adapted to address company-specific scenarios",
+			"`Implementation`: Solutions are developed during training through hands-on exercises",
+			"`Output Creation`: Micro-implementations and proof-of-concepts are produced",
+			"`Future Planning`: Identification of potential R&D collaboration opportunities",
+			"`Industry-Academia Bridge`: Combines academic rigor with practical business application"
+		]
+	},
+	{
+		"language": "en",
+		"name_normed": "course_delivery_methods",
+		"name": "Course Delivery Methods",
+		"description": null,
+		"values": [
+			"`Classroom`: Traditional classroom setting at university facilities with dedicated lab equipment. Ideal for hands-on practice with development environments and interactive group exercises. Provides structured learning environment with immediate instructor support.",
+			"`On-Site Customer`: Delivery at customer's premises using their infrastructure and real business context. Customized to specific company needs and systems while maintaining core curriculum objectives.",
+			"`Online`: Remote delivery through virtual classroom platforms with screen sharing and collaborative tools. Flexible scheduling with recorded sessions for review."
+		]
+	},
+	{
+		"language": "en",
+		"name_normed": "entry_requirements",
+		"name": "Entry Requirements for Employees",
+		"description": null,
+		"values": [
+			"`Basic computer literacy`: Comfortable with everyday computer operations and basic software applications.",
+			"`Internet proficiency`: Working knowledge of web browsing and online research.",
+			"`English language proficiency`: Working knowledge of English, as many technical terms are in English.",
+			"`Access to required hardware`: Computer with internet connectivity for the duration of the course.",
+			"`Time commitment`: Ability to dedicate required time to complete all modules and assignments."
+		]
+	},
+	{
+		"language": "en",
+		"name_normed": "company_support",
+		"name": "Company Support",
+		"description": "One of the core course output, in addition to acquired knowledge and skills, is a digitalized system describing the issues that the employee deals with in the company, related descriptions, and examples of working with technologies and resources. The company should ensure these tools and services are available and properly configured for all participants before the course begins.",
+		"values": [
+			"Visual Studio Code (programming environments Python, Bash, markdown editor)",
+			"GitHub account and necessary permissions",
+			"Docker",
+			"Google Workspace (Drive, Sheets)",
+			"AWS Cloud Services (S3, Athena, DynamoDB)",
+			"Microsoft Office (Word)",
+			"Computers capable of running the required software",
+			"Stable internet connection",
+			"Administrative rights to install and configure necessary software",
+			"Access rights to relevant company data and systems for practical exercises"
+		]
+	},
+	{
+		"language": "en",
+		"name_normed": "core_literature_referenced",
+		"name": "Core Literature Used in Course",
+		"description": null,
+		"values": [
+			"Generative AI in Higher Education [@generative-ai-in-higher-education]",
+			"Creative Applications of Artificial Intelligence in Education [@creative-applications-of-artificial-intelligence-in-education]",
+			"LifeComp: The European Framework for Personal, Social and Learning to Learn Key Competence [@lifecomp-the-european-framework-for-personal-social-and-learning-to-learn-key-competence]",
+			"DigComp 2.2: The Digital Competence Framework for Citizens - With new examples of knowledge, skills and attitudes [@digital-competence-framework-for-citizens-digcomp]"
+		]
+	},
+	{
+		"language": "en",
+		"name_normed": "core_literature_rendered",
+		"name": "Core Literature Used in Course",
+		"description": null,
+		"values": [
+			"Chan CKY, Colloton T. Generative AI in Higher Education. Routledge; 2024.",
+			"Urmeneta A, Romero M. Creative Applications of Artificial Intelligence in Education. Palgrave Macmillan; 2024.",
+			"Sala A, Punie Y, Garkov V, Cabrera GM. LifeComp: The European Framework for Personal, Social and Learning to Learn Key Competence [Internet]. Luxembourg (Luxembourg): Publications Office of the European Union; 2020.",
+			"Vuorikari R, Kluzer S, Punie Y. DigComp 2.2: The Digital Competence Framework for Citizens - With new examples of knowledge, skills and attitudes [Internet]. Luxembourg (Luxembourg): Publications Office of the European Union; 2022."
+		]
+	}
+]

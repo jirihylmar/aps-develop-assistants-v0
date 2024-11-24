@@ -1,0 +1,14 @@
+{
+	"language": "en",
+	"name_normed": "introduction_and_environment_setup",
+	"name_code": "intandenvset",
+	"name": "Introduction and Environment Setup",
+	"learning_objectives": "This foundational module establishes a secure and efficient technical environment for the Digital Horizon journey. Participants master the setup and configuration of essential development tools including Visual Studio Code, Git, Docker, and cloud services. Strong emphasis is placed on cybersecurity practices, implementing GDPR-compliant data handling, and secure content management across all platforms. Through hands-on practice, participants learn to create and maintain a protected development environment that combines code editing, version control, containerization, and cloud service capabilities.",
+	"keywords": "development environment, Visual Studio Code, Git, GitHub, Docker, cloud services, cybersecurity, GDPR compliance, content management, version control, containerization, metadata management, access control, Google Workspace, AWS, security best practices",
+	"top_skills": "Cloud technologies for development, Cybersecurity fundamentals, Code version control, Personal data protection (GDPR), Digital content management",
+	"estimated_hours": 16,
+	"complexity_level": "Fundamental",
+	"prerequisites": null,
+	"symbol_name": "Totem",
+	"symbol_link": "https://medite-sss-infpro-182059100462.s3.eu-west-1.amazonaws.com/jirhyl/inception_totem/source__standard_upload/inception_totem.png"
+}

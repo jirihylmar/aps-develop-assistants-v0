@@ -1,0 +1,27 @@
+{
+	"timestamp": "2024-11-23T16:49:52.215Z",
+	"project": "contextual_translation",
+	"payload": {
+		"language": "cs",
+		"name_normed": "introduction_and_environment_setup",
+		"name_code": "intandenvset",
+		"name": "Úvod a nastavení prostředí",
+		"learning_objectives": "Tento základní modul vytváří zabezpečené a efektivní technické prostředí pro cestu Digital Horizon. Účastníci si osvojí nastavení a konfiguraci základních vývojových nástrojů včetně Visual Studio Code, Gitu, Dockeru a cloudových služeb. Velký důraz je kladen na postupy kybernetické bezpečnosti, implementaci GDPR kompatibilního zacházení s daty a zabezpečené správy obsahu na všech platformách. Prostřednictvím praktických cvičení se účastníci naučí vytvářet a udržovat chráněné vývojové prostředí, které kombinuje úpravu kódu, správu verzí, kontejnerizaci a možnosti cloudových služeb.",
+		"keywords": "vývojové prostředí, Visual Studio Code, Git, GitHub, Docker, cloudové služby, kybernetická bezpečnost, dodržování GDPR, správa obsahu, správa verzí, kontejnerizace, správa metadat, řízení přístupu, Google Workspace, AWS, bezpečnostní nejlepší postupy",
+		"top_skills": "Cloudové technologie pro vývoj, Základy kybernetické bezpečnosti, Správa verzí kódu, Ochrana osobních údajů (GDPR), Správa digitálního obsahu",
+		"estimated_hours": 16,
+		"complexity_level": "Základní",
+		"prerequisites": null,
+		"symbol_name": "Totem",
+		"symbol_link": "https://medite-sss-infpro-182059100462.s3.eu-west-1.amazonaws.com/jirhyl/inception_totem/source__standard_upload/inception_totem.png"
+	},
+	"system": {
+		"model": "claude-3-haiku-20240307",
+		"processingTime": "5069.00ms",
+		"totalTokens": 6741,
+		"promptTokens": 6218,
+		"completionTokens": 523,
+		"estimatedCost": "$0.0022",
+		"mode": "API"
+	}
+}

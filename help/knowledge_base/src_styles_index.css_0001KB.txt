@@ -1,0 +1,39 @@
+=== File: src/styles/index.css ===
+=== Size: 1KB ===
+
+/*index.css*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for pre elements (JSON response) */
+pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  line-height: 1.5;
+}
+
+/* Custom scrollbar styles */
+pre::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+pre::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+pre::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+pre::-webkit-scrollbar-thumb:hover {
+  background: #666;
+}
+
+/* Base styles */
+body {
+  @apply bg-gray-50;
+}
